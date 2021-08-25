@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! 👋
+
+My main web page is at https://timcera.bitbucket.io/ and has documentation for my current published projects.
 
 <!--
 **timcera/timcera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
