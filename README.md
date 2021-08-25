@@ -2,6 +2,8 @@
 
 My main web page is at https://timcera.bitbucket.io/ and has documentation for my current published projects.
 
+![Metrics](https://metrics.lecoq.io/timcera?template=classic&languages=1&introduction=1&lines=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FNew_York)
+
 <!--
 **timcera/timcera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
